@@ -6,6 +6,11 @@ html {
   color: #121212;
 }
 
+::selection {
+  color: #121212;
+  background: #ffd2d2;
+}
+
 /* width */
 ::-webkit-scrollbar {
   width: 20px;
